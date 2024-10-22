@@ -29,3 +29,7 @@ body {
 .maxH {
   max-height: 600px;
 }
+
+.minH {
+  min-height: 200px;
+}
